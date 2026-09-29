@@ -3,8 +3,7 @@
 export const owner = {
   name: "Ian Santiago",
   role: "Sites e automações para pequenos negócios",
-  // TODO: troque pelo seu número com DDI + DDD (somente dígitos), ex.: 5585999999999
-  whatsapp: "5500000000000",
+  whatsapp: "5585998496000",
   github: "https://github.com/ianvibesantiago-dev",
   city: "Brasil · atendimento 100% online",
 } as const;
